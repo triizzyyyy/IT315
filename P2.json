@@ -1,88 +1,88 @@
 {
   "HairStyles": [
     {
-      "Style Name": "Wash and Go",
-      "Image Name": "https://i.pinimg.com/564x/dd/9c/c1/dd9cc1312236d281b8d60479db9b65f6.jpg",
-      "Style Description": "A fancy style to do to your short hair or long hair. Using hair products will help you train your hair into a curl pattern to hold these styles.",
-      "Style ID": "1",
-      "Style Link": "https://www.youtube.com/watch?v=eunZj61n0Kc"
+      "StyleName": "Wash and Go",
+      "StyleImageName": "https://i.pinimg.com/564x/dd/9c/c1/dd9cc1312236d281b8d60479db9b65f6.jpg",
+      "StyleDescription": "A fancy style to do to your short hair or long hair. Using hair products will help you train your hair into a curl pattern to hold these styles.",
+      "StyleID": "1",
+      "StyleLink": "https://www.youtube.com/watch?v=eunZj61n0Kc"
     },
     {
-      "Style Name": "Wash and Go",
-      "Image Name": "https://i.pinimg.com/564x/34/17/20/3417206519142d170ed506a535a14490.jpg",
-      "Style Description": "A fancy style to do to your short hair or long hair. Using hair products will help you train your hair into a curl pattern to hold these styles.",
-      "Style ID": "2",
-      "Style Link": "https://www.youtube.com/watch?v=eunZj61n0Kc"
+      "StyleName": "Wash and Go",
+      "StyleImageName": "https://i.pinimg.com/564x/34/17/20/3417206519142d170ed506a535a14490.jpg",
+      "StyleDescription": "A fancy style to do to your short hair or long hair. Using hair products will help you train your hair into a curl pattern to hold these styles.",
+      "StyleID": "2",
+      "StyleLink": "https://www.youtube.com/watch?v=eunZj61n0Kc"
     },
     {
-      "Style Name": "Afro",
-      "Image Name": "https://i.pinimg.com/564x/eb/02/aa/eb02aa5762613fa854b25bc05bcecffc.jpg",
-      "Style Description": "The generic afro style. Simply comb / pick your hair out to achieve this.",
-      "Style ID": "3",
-      "Style Link": "https://www.youtube.com/watch?v=Gawuuxj_ogQ"
+      "StyleName": "Afro",
+      "StyleImageName": "https://i.pinimg.com/564x/eb/02/aa/eb02aa5762613fa854b25bc05bcecffc.jpg",
+      "StyleDescription": "The generic afro style. Simply comb / pick your hair out to achieve this.",
+      "StyleID": "3",
+      "StyleLink": "https://www.youtube.com/watch?v=Gawuuxj_ogQ"
     },
     {
-      "Style Name": "Afro",
-      "Image Name": "http://coolmenshair.com/wp-content/uploads/afro-hair.jpg",
-      "Style Description": "The generic afro style. Simply comb / pick your hair out to achieve this.",
-      "Style ID": "4",
-      "Style Link": "https://www.youtube.com/watch?v=Gawuuxj_ogQ"
+      "StyleName": "Afro",
+      "StyleImageName": "http://coolmenshair.com/wp-content/uploads/afro-hair.jpg",
+      "StyleDescription": "The generic afro style. Simply comb / pick your hair out to achieve this.",
+      "StyleID": "4",
+      "StyleLink": "https://www.youtube.com/watch?v=Gawuuxj_ogQ"
     },
     {
-      "Style Name": "Braids",
-      "Image Name": "https://i.pinimg.com/564x/41/70/a2/4170a246d3a38852fb429a877c63ce73.jpg",
-      "Style Description": "A protective hair style that can last long when taken care of properly by wearing durags. Also helps promote hair growth.",
-      "Style ID": "5",
-      "Style Link": "https://www.youtube.com/watch?v=3GoWB6d_Or8"
+      "StyleName": "Braids",
+      "StyleImageName": "https://i.pinimg.com/564x/41/70/a2/4170a246d3a38852fb429a877c63ce73.jpg",
+      "StyleDescription": "A protective hair style that can last long when taken care of properly by wearing durags. Also helps promote hair growth.",
+      "StyleID": "5",
+      "StyleLink": "https://www.youtube.com/watch?v=3GoWB6d_Or8"
     },
     {
-      "Style Name": "Braids",
-      "Image Name": "https://i.pinimg.com/564x/e0/5c/02/e05c02a526a8051625cca00c1da143bd.jpg",
-      "Style Description": "A protective hair style that can last long when taken care of properly by wearing durags. Also helps promote hair growth.",
-      "Style ID": "6",
-      "Style Link": "https://www.youtube.com/watch?v=3GoWB6d_Or8"
+      "StyleName": "Braids",
+      "StyleImageName": "https://i.pinimg.com/564x/e0/5c/02/e05c02a526a8051625cca00c1da143bd.jpg",
+      "StyleDescription": "A protective hair style that can last long when taken care of properly by wearing durags. Also helps promote hair growth.",
+      "StyleID": "6",
+      "StyleLink": "https://www.youtube.com/watch?v=3GoWB6d_Or8"
     },
     {
-      "Style Name": "Waves",
-      "Image Name": "https://i.pinimg.com/564x/a2/76/da/a276da4c35da7a2bc6e4bb9be7040ded.jpg",
-      "Style Description": "Waves are obtained through the training of brushing your hair in a circular motion. The use of hair products and a durag / wave cap helps keep the style in place and holds the style.",
-      "Style ID": "7",
-      "Style Link": "https://www.youtube.com/watch?v=Wlq3vOnSHTE"
+      "StyleName": "Waves",
+      "StyleImageName": "https://i.pinimg.com/564x/a2/76/da/a276da4c35da7a2bc6e4bb9be7040ded.jpg",
+      "StyleDescription": "Waves are obtained through the training of brushing your hair in a circular motion. The use of hair products and a durag / wave cap helps keep the style in place and holds the style.",
+      "StyleID": "7",
+      "StyleLink": "https://www.youtube.com/watch?v=Wlq3vOnSHTE"
     },
     {
-      "Style Name": "Waves",
-      "Image Name": "https://i.pinimg.com/564x/44/5d/0a/445d0aa586e3a30c4d6232c118a2a1e6.jpg",
-      "Style Description": "Waves are obtained through the training of brushing your hair in a circular motion. The use of hair products and a durag / wave cap helps keep the style in place and holds the style.",
-      "Style ID": "8",
-      "Style Link": "https://www.youtube.com/watch?v=Wlq3vOnSHTE"
+      "StyleName": "Waves",
+      "StyleImageName": "https://i.pinimg.com/564x/44/5d/0a/445d0aa586e3a30c4d6232c118a2a1e6.jpg",
+      "StyleDescription": "Waves are obtained through the training of brushing your hair in a circular motion. The use of hair products and a durag / wave cap helps keep the style in place and holds the style.",
+      "StyleID": "8",
+      "StyleLink": "https://www.youtube.com/watch?v=Wlq3vOnSHTE"
     },
     {
-      "Style Name": "Two Strand Twist",
-      "Image Name": "https://i.pinimg.com/564x/1e/2a/93/1e2a93a515caf9f79d49d094a2dc1ba6.jpg",
-      "Style Description": "Two Strand Twists are worn as a fashion style and a protective hair style. Using hair products helps hold the twists and place and they last as a style as long as they're taken care of properly and promotes hair growth.",
-      "Style ID": "9",
-      "Style Link": "https://www.youtube.com/watch?v=Kzn1HyXLydk"
+      "StyleName": "Two Strand Twist",
+      "StyleImageName": "https://i.pinimg.com/564x/1e/2a/93/1e2a93a515caf9f79d49d094a2dc1ba6.jpg",
+      "StyleDescription": "Two Strand Twists are worn as a fashion style and a protective hair style. Using hair products helps hold the twists and place and they last as a style as long as they're taken care of properly and promotes hair growth.",
+      "StyleID": "9",
+      "StyleLink": "https://www.youtube.com/watch?v=Kzn1HyXLydk"
     },
     {
-      "Style Name": "Two Strand Twist",
-      "Image Name": "https://i.pinimg.com/564x/bd/bd/ea/bdbdeaebdba1cb89e3936b7c54003395.jpg",
-      "Style Description": "Two Strand Twists are worn as a fashion style and a protective hair style. Using hair products helps hold the twists and place and they last as a style as long as they're taken care of properly and promotes hair growth.",
-      "Style ID": "10",
-      "Style Link": "https://www.youtube.com/watch?v=Kzn1HyXLydk"
+      "StyleName": "Two Strand Twist",
+      "StyleImageName": "https://i.pinimg.com/564x/bd/bd/ea/bdbdeaebdba1cb89e3936b7c54003395.jpg",
+      "StyleDescription": "Two Strand Twists are worn as a fashion style and a protective hair style. Using hair products helps hold the twists and place and they last as a style as long as they're taken care of properly and promotes hair growth.",
+      "StyleID": "10",
+      "StyleLink": "https://www.youtube.com/watch?v=Kzn1HyXLydk"
     },
     {
-      "Style Name": "Twist Out",
-      "Image Name": "https://i.pinimg.com/564x/99/bc/03/99bc035d65adffe58d6eaf3345038cb0.jpg",
-      "Style Description": "An afro type style formed from unraveling two and three strand twists. Can be preserved to last several days if wrapping it up properly every night, and sometime retwisting.",
-      "Style ID": "11",
-      "Style Link": "https://www.youtube.com/watch?v=k6GvbItUVWc"
+      "StyleName": "Twist Out",
+      "StyleImageName": "https://i.pinimg.com/564x/99/bc/03/99bc035d65adffe58d6eaf3345038cb0.jpg",
+      "StyleDescription": "An afro type style formed from unraveling two and three strand twists. Can be preserved to last several days if wrapping it up properly every night, and sometime retwisting.",
+      "StyleID": "11",
+      "StyleLink": "https://www.youtube.com/watch?v=k6GvbItUVWc"
     },
     {
-      "Style Name": "Twist Out",
-      "Image Name": "https://i.pinimg.com/564x/cc/21/b8/cc21b81e27c5ab94687fc649a1cf1732.jpg",
-      "Style Description": "An afro type style formed from unraveling two and three strand twists. Can be preserved to last several days if wrapping it up properly every night, and sometime retwisting.",
-      "Style ID": "12",
-      "Style Link": "https://www.youtube.com/watch?v=k6GvbItUVWc"
+      "StyleName": "Twist Out",
+      "StyleImageName": "https://i.pinimg.com/564x/cc/21/b8/cc21b81e27c5ab94687fc649a1cf1732.jpg",
+      "StyleDescription": "An afro type style formed from unraveling two and three strand twists. Can be preserved to last several days if wrapping it up properly every night, and sometime retwisting.",
+      "StyleID": "12",
+      "StyleLink": "https://www.youtube.com/watch?v=k6GvbItUVWc"
     }
   ]
 }
